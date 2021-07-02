@@ -1,0 +1,9 @@
+*.txt
+*.md
+*.exe
+
+/**/Practice/*
+/**/Tests/*
+/libraries/*
+/**/.idea/*
+/**/artifacts/*
